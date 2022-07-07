@@ -25,5 +25,5 @@ Hackathon was conducted on Kaggle.
 **Slides Regarding the approach** : Look up the PDF.
 
 **Team Members** :
-- Archit Sangal
-- Aditya Vardhan
+- Archit Sangal - [https://github.com/architsangal](https://github.com/architsangal)
+- Aditya Vardhan - [https://github.com/vardhan2000](https://github.com/vardhan2000)
