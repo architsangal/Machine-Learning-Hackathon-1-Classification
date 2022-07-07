@@ -10,6 +10,8 @@ Hackathon was conducted on Kaggle.
 
 **Kaggle Link** : [https://www.kaggle.com/c/car-accident-prediction](https://www.kaggle.com/c/car-accident-prediction)
 
+![Leader Board](https://github.com/architsangal/Machine-Learning-Hackathon-1-Classification/blob/main/Leadboard%20Screenshots.jpg)
+
 **Team Name** : MaRVeL
 
 **Rank Obtained** :
